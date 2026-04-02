@@ -1,7 +1,7 @@
 ## Hello, world! I'm Ygor! 👋
 
 
-💡 I’m passionate about backend development, building efficient systems, and applying best practices like SOLID and Clean Code.
+💡 I’m passionate about backend development, building efficient systems.
 
 🚀 Currently focused on Java and Spring Boot, developing REST APIs and working with databases.
 
