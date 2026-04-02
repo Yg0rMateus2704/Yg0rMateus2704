@@ -2,8 +2,11 @@
 
 
 💡 I’m passionate about backend development, building efficient systems, and applying best practices like SOLID and Clean Code.
+
 🚀 Currently focused on Java and Spring Boot, developing REST APIs and working with databases.
+
 🌱 I also enjoy sharing knowledge and contributing to educational initiatives in technology.
+
 📂 Take a look at my projects — I’m always building and improving!
 
 ## 🔧 Skills
