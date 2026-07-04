@@ -7,7 +7,7 @@
 
 🌱 I also enjoy sharing knowledge and contributing to educational initiatives in technology.
 
-📂 Take a look at my projects — I’m always building and improving!
+📂 Take a look at my projects, I’m always building and improving!
 
 ## 🔧 Skills
 
